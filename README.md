@@ -4,6 +4,19 @@ We have 2 Tesla chargers (10kW max output) in the building open to all residents
 that the building has 489 condo units, but this is better than nothing. So we need to maximize the utilization
 of those chargers while ensuring everyone has fair access to them.
 
+- [WhatsApp Group](#whatsapp-group)
+- [Rules](#rules)
+- [Charging History Study](#charging-history-study)
+  - [How many charging sessions happened?](#how-many-charging-sessions-happened)
+  - [Charge duration distribution by 30-minute buckets](#charge-duration-distribution-by-30-minute-buckets)
+  - [Charging sessions start by hour of day](#charging-sessions-start-graph-by-hour-of-day)
+  - [Charger occupancy by hour of day](#charger-occupancy-graph-by-hour-of-day-active-sessions)
+  - [How many charging sessions happened during peak hours only?](#how-many-charging-sessions-happened-during-peak-hours-only)
+  - [Charge duration distribution during peak hours only](#charge-duration-distribution-by-30-minute-buckets-during-peak-hours-only)
+- [Claude Suggested Rule Changes](#claude-suggested-rule-changes)
+- [WhatsApp Group Discussion Summary](#whatsapp-group-discussion-summary)
+- [Conclusion & Petition](#conclusion--petition)
+
 ## WhatsApp Group
 
 We have a WhatsApp group for EV owners to coordinate charger usage. Members post "Freeing 1 charger" when they free up a
@@ -19,10 +32,10 @@ EVs in the building.
 > maximizing the usage of the chargers.
 
 The WhatsApp group has greatly changed how we use those chargers, since it eliminated the need to
-repeatedly go downstairs physically to check if they are free.
+repeatedly go downstairs physically to check if they are free.  
 However, if an EV owner is not in the group, it puts them at a significant disadvantage. As soon as a charger is
 freed and announced in the WhatsApp group, its members will be aware well before an outsider even gets a chance at
-claiming it.
+claiming it.  
 Even though WhatsApp is free and accessible on all major platforms, we understand that some people might not be willing to
 use it for various reasons: privacy concerns with a Meta-owned app, not wanting their phone number accessible to group
 members, technology barriers, etc. We are open to suggestions to make sure everyone is included.
@@ -50,7 +63,7 @@ We will be using only the last 30 days' data.
 
 **308 charging sessions** in the last 30 days (January 25 - February 24, 2026).
 
-### Charge duration distribution by 30-minute buckets:
+### Charge duration distribution by 30-minute buckets
 
 ```
 0:00-0:30    [ 12] ████████████
@@ -76,7 +89,7 @@ We will be using only the last 30 days' data.
 9:30-10:00   [  2] ██
 ```
 
-### Charging sessions start graph by hour of day:
+### Charging sessions start graph by hour of day
 
 ```
 00:00-01:00 [  6] ██████
@@ -105,7 +118,7 @@ We will be using only the last 30 days' data.
 23:00-00:00 [  6] ██████
 ```
 
-### Charger occupancy graph by hour of day (active sessions):
+### Charger occupancy graph by hour of day (active sessions)
 
 ```
 00:00-01:00 [ 47] ███████████████████████████████████████████████
@@ -145,7 +158,7 @@ We will be using only the last 30 days' data.
 
 **270 charging sessions** during peak hours.
 
-### Charge duration distribution by 30-minute buckets, during peak hours only:
+### Charge duration distribution by 30-minute buckets, during peak hours only
 
 ```
 0:00-0:30    [ 12] ████████████
@@ -174,7 +187,7 @@ We will be using only the last 30 days' data.
 ## Claude Suggested Rule Changes:
 
 > Can you suggest potential changes to the rules that would make the chargers more available to more people while still
-> being fair and not too restrictive?
+> being fair and not too restrictive?  
 > For example, would a 4h limit be better than a 3h limit? Or 2h limit?
 > Should we have a grace period overnight? Since people are not expected to wake up in the middle of the night.
 
@@ -241,24 +254,25 @@ After sharing the data study with the group, 8 members (out of 30) highlighted s
 - Suggestion to pull usage data regularly and provide it to management so they can cross-reference camera footage with
   license plates to identify repeat offenders.
 
-## Conclusion
+## Conclusion & Petition
 
 After conducting a poll in the WhatsApp group on the following proposed rule changes:
-In favor:
-Against:
-Abstain:
+
+- In favor: TBD
+- Against: TBD
+- Abstain: TBD
 
 The "In favor" EV owners of The Wind, are requesting The Wind Management to consider the following changes to the EV
 charging rules based on the above data study and group discussion:
 
-* Revert to the 3-hour limit during peak hours (5am–10pm), as a 2-hour limit is too inconvenient and does not solve the
+- Revert to the 3-hour limit during peak hours (5am–10pm), as a 2-hour limit is too inconvenient and does not solve the
   root problem of enforcement.
-* Remove the time limit for any cars plugged in between 10pm and 5am, since we cannot expect people to wake up in the
-  middle of the night to free a charger.
+- Remove the time limit for any cars plugged in between 10pm and 5am, since we cannot expect people to wake up in the
+  middle of the night to free a charger.  
   This means: any car plugged in between 10pm and 5am must free the charger by 8am (3 hours after 5am), and any car
   plugged in before 10pm must free the charger by 1am (3 hours after 10pm) or when their 3-hour limit expires, whichever
   comes first.
-* Keep the 1 car per unit per day limit.
-* Work on ways to enforce the rules for repeated offenders rather than making the rules stricter for everyone.
+- Keep the 1 car per unit per day limit.
+- Work on ways to enforce the rules for repeated offenders rather than making the rules stricter for everyone.
 
-- The Wind EV Owners Group led by Joan Goyeau
+The Wind EV Owners Group led by Joan Goyeau
