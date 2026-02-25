@@ -91,10 +91,23 @@ Charging sessions by hour of day:
 23:00 [  6] ██
 ```
 
-The electricity rate is 0.14$/kW. What was the cost of the charging sessions?
+Peak usage hours is between 8am and 10pm included.
 
-Total energy delivered: **7,240.8 kWh**
-Total cost at $0.14/kWh: **$1,013.71** over 30 days
+How many charging sessions happened during peak usage hours only?
+
+**262 charging sessions** during peak hours (8am–10pm).
+
+How many charging sessions went over 3h during peak usage hours only? What percentage of the total peak usage sessions?
+
+**104 sessions (39.7%)** went over 3 hours during peak hours.
+
+How many charging sessions went over 4h during peak usage hours only? What percentage of the total peak usage sessions?
+
+**34 sessions (13.0%)** went over 4 hours during peak hours.
+
+How many charging sessions went over 5h during peak usage hours only? What percentage of the total peak usage sessions?
+
+**18 sessions (6.9%)** went over 5 hours during peak hours.
 
 Can you suggest potential changes to the rules that would make the chargers more available to more people while still
 being fair and not too restrictive?
