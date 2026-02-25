@@ -61,37 +61,65 @@ How many charging sessions went over 5h? What percentage of the total sessions?
 
 **24 sessions (7.8%)** went over 5 hours.
 
-Can you insert an ASCII graph of how busy each hour of the day are over 10 bars?
+Charging sessions start by hour of day:
 
 ```
-Charging sessions by hour of day:
-00:00 [  6] ██
-01:00 [  6] ██
-02:00 [  6] ██
-03:00 [  2]
-04:00 [  6] ██
-05:00 [  6] ██
-06:00 [ 10] ████
-07:00 [  6] ██
-08:00 [ 25] ██████████
-09:00 [ 17] ██████
-10:00 [ 12] ████
-11:00 [ 19] ███████
-12:00 [ 16] ██████
-13:00 [ 14] █████
-14:00 [ 16] ██████
-15:00 [ 12] ████
-16:00 [ 22] ████████
-17:00 [ 19] ███████
-18:00 [ 17] ██████
-19:00 [ 19] ███████
-20:00 [ 13] █████
-21:00 [ 18] ███████
-22:00 [ 15] ██████
-23:00 [  6] ██
+00:00 [  6] ██████
+01:00 [  6] ██████
+02:00 [  6] ██████
+03:00 [  2] ██
+04:00 [  6] ██████
+05:00 [  6] ██████
+06:00 [ 10] ██████████
+07:00 [  6] ██████
+08:00 [ 25] █████████████████████████
+09:00 [ 17] █████████████████
+10:00 [ 12] ████████████
+11:00 [ 19] ███████████████████
+12:00 [ 16] ████████████████
+13:00 [ 14] ██████████████
+14:00 [ 16] ████████████████
+15:00 [ 12] ████████████
+16:00 [ 22] ██████████████████████
+17:00 [ 19] ███████████████████
+18:00 [ 17] █████████████████
+19:00 [ 19] ███████████████████
+20:00 [ 13] █████████████
+21:00 [ 18] ██████████████████
+22:00 [ 15] ███████████████
+23:00 [  6] ██████
 ```
 
-Peak usage hours is between 8am and 10pm included.
+Charger occupancy by hour of day (active sessions):
+
+```
+00:00 [ 47] ███████████████████████████████████████████████
+01:00 [ 36] ████████████████████████████████████
+02:00 [ 29] █████████████████████████████
+03:00 [ 26] ██████████████████████████
+04:00 [ 28] ████████████████████████████
+05:00 [ 31] ███████████████████████████████
+06:00 [ 37] █████████████████████████████████████
+07:00 [ 31] ███████████████████████████████
+08:00 [ 48] ████████████████████████████████████████████████
+09:00 [ 53] █████████████████████████████████████████████████████
+10:00 [ 57] █████████████████████████████████████████████████████████
+11:00 [ 61] █████████████████████████████████████████████████████████████
+12:00 [ 61] █████████████████████████████████████████████████████████████
+13:00 [ 51] ███████████████████████████████████████████████████
+14:00 [ 54] ██████████████████████████████████████████████████████
+15:00 [ 53] █████████████████████████████████████████████████████
+16:00 [ 61] █████████████████████████████████████████████████████████████
+17:00 [ 64] ████████████████████████████████████████████████████████████████
+18:00 [ 66] ██████████████████████████████████████████████████████████████████
+19:00 [ 68] ████████████████████████████████████████████████████████████████████
+20:00 [ 61] █████████████████████████████████████████████████████████████
+21:00 [ 66] ██████████████████████████████████████████████████████████████████
+22:00 [ 59] ███████████████████████████████████████████████████████████
+23:00 [ 48] ████████████████████████████████████████████████
+```
+
+Peak usage hours is between 8am and 11pm excluded.
 
 How many charging sessions happened during peak usage hours only?
 
@@ -149,7 +177,7 @@ violations than it solves.
 
 ## WhatsApp Group Discussion Summary
 
-After sharing the data study with the group, members highlighted several key points:
+After sharing the data study with the group, 9 members (out of 30) highlighted several key points:
 
 **On the 3-hour limit:**
 
@@ -160,7 +188,7 @@ After sharing the data study with the group, members highlighted several key poi
 
 **On overnight sessions:**
 
-- Suggestion to simply remove the limit for cars plugged in after 11pm, with a hard requirement to be unplugged by 8am,
+- Suggestion to simply remove the limit for cars plugged in after 12am, with a hard requirement to be unplugged by 8am,
   rather than a 5-hour window.
 
 **On enforcement — the core problem:**
@@ -178,3 +206,29 @@ After sharing the data study with the group, members highlighted several key poi
 
 - Suggestion to pull usage data regularly and provide it to management so they can cross-reference camera footage with
   license plates to identify repeat offenders.
+
+## Conclusion
+
+The following EV owners of The Wind:
+
+* Joan Goyeau (lead petitioner)
+* Katerina Goyeau
+* Sussi
+* Andres
+* Gabriela Pallares
+* Brittany Nicole
+* Tyler Eastridge
+* Caro
+* Maria Del Mar
+
+Are requesting The Wind Management to consider the following changes to the EV charging rules based on the above data
+study and group discussion:
+
+* Revert to the 3 hours limit during peak hours (5am-10pm). Since 2h is too inconvenient and does not solve the root
+  problem of enforcement.
+* Remove the time limit for any cars plugged between 10pm and 5am. Since we don't expect people to wake up in the middle
+  of the night to take a charger.
+  This means: any cars plugged between 10pm and 5am will have to free the charger by 8am (3h after 5am). And any cars
+  plugged before 10pm will need to free the charger by 1am (3h after 10pm) or before their 3h limit.
+* Keep the 1 car per unit per day limit.
+* Work on ways to enforce the rules for repeated offenders rather than making the rules stricter for everyone.
