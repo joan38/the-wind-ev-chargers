@@ -146,3 +146,35 @@ data-justified.
 
 **Why not 2 hours?** The median session is 2.8 hours, so a 2-hour limit would frustrate most users and create more
 violations than it solves.
+
+## WhatsApp Group Discussion Summary
+
+After sharing the data study with the group, members highlighted several key points:
+
+**On the 3-hour limit:**
+
+- The 42.2% overage rate was seen as an enforcement problem more than a rules problem, since many violations are likely
+  only slightly over the limit (3:05, 3:10). The 16.6% exceeding 4 hours is the more meaningful indicator of true abuse.
+- There is agreement that the current 3-hour limit is reasonable in principle, and that reducing to 2 hours would be
+  counterproductive — if people aren't following 3 hours, they won't follow 2 hours either.
+
+**On overnight sessions:**
+
+- Suggestion to simply remove the limit for cars plugged in after 11pm, with a hard requirement to be unplugged by 8am,
+  rather than a 5-hour window.
+
+**On enforcement — the core problem:**
+
+- Fines do not work. One resident (known Cybertruck owner with 3 cars) has been fined 40+ times and simply pays them, as
+  management acknowledged.
+- Management is reluctant to escalate, citing fear of legal action from this specific resident.
+- The group strongly believes that **revoking charging privileges** and/or **booting/towing** after repeated
+  violations (3–4 offenses) would be far more effective than financial penalties — the inconvenience matters more than
+  the cost.
+- Precedent exists: management already revokes access to other amenities for repeated abuse. Charging should be no
+  different.
+
+**On data-driven enforcement:**
+
+- Suggestion to pull usage data regularly and provide it to management so they can cross-reference camera footage with
+  license plates to identify repeat offenders.
