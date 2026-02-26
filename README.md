@@ -89,6 +89,8 @@ We will be using only the last 30 days' data.
 9:30-10:00   [  2] ██
 ```
 
+This graph shows how long people charge their cars for the last 30 days.
+
 ### Charging sessions start graph by hour of day
 
 ```
@@ -118,6 +120,11 @@ We will be using only the last 30 days' data.
 23:00-00:00 [  6] ██████
 ```
 
+Each bar of this graph counts the number of charging sessions that **started** during that hour for the last 30 days.
+For example, 25 sessions started between 8am and 9am, which is the hour of the day with the highest demand for a charge.
+This graph does not care about how long those sessions lasted. So a session that started at 8:59am and lasted for
+4 hours would only be counted in the 8am-9am bucket.
+
 ### Charger occupancy graph by hour of day (active sessions)
 
 ```
@@ -146,6 +153,10 @@ We will be using only the last 30 days' data.
 22:00-23:00 [ 59] ███████████████████████████████████████████████████████████
 23:00-00:00 [ 48] ████████████████████████████████████████████████
 ```
+
+Each bar of this graph counts the number of charging sessions that were **active** during that hour for the last 30
+days.
+For example, 68 sessions were active between 7pm and 8pm, which is the busiest hour of the day.
 
 > [!NOTE]
 > Peak usage hours is between 8am and 1am (next day) excluded.
@@ -184,7 +195,7 @@ We will be using only the last 30 days' data.
 9:30-10:00   [  2] ██
 ```
 
-## Claude Suggested Rule Changes:
+## Claude Suggested Rule Changes
 
 > Can you suggest potential changes to the rules that would make the chargers more available to more people while still
 > being fair and not too restrictive?  
