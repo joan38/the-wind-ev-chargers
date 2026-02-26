@@ -258,9 +258,8 @@ After sharing the data study with the group, 8 members (out of 30) highlighted s
 
 After conducting a poll in the WhatsApp group on the following proposed rule changes:
 
-- In favor: TBD
-- Against: TBD
-- Abstain: TBD
+- In favor: 14
+- Against: 0
 
 The "In favor" EV owners of The Wind, are requesting The Wind Management to consider the following changes to the EV
 charging rules based on the above data study and group discussion:
