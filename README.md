@@ -7,12 +7,12 @@ of those chargers while ensuring everyone has fair access to them.
 - [WhatsApp Group](#whatsapp-group)
 - [Rules](#rules)
 - [Charging History Study](#charging-history-study)
-  - [How many charging sessions happened?](#how-many-charging-sessions-happened)
-  - [Charge duration distribution by 30-minute buckets](#charge-duration-distribution-by-30-minute-buckets)
-  - [Charging sessions start by hour of day](#charging-sessions-start-graph-by-hour-of-day)
-  - [Charger occupancy by hour of day](#charger-occupancy-graph-by-hour-of-day-active-sessions)
-  - [How many charging sessions happened during peak hours only?](#how-many-charging-sessions-happened-during-peak-hours-only)
-  - [Charge duration distribution during peak hours only](#charge-duration-distribution-by-30-minute-buckets-during-peak-hours-only)
+    - [How many charging sessions happened?](#how-many-charging-sessions-happened)
+    - [Charge duration distribution by 30-minute buckets](#charge-duration-distribution-by-30-minute-buckets)
+    - [Charging sessions start by hour of day](#charging-sessions-start-graph-by-hour-of-day)
+    - [Charger occupancy by hour of day](#charger-occupancy-graph-by-hour-of-day-active-sessions)
+    - [How many charging sessions happened during peak hours only?](#how-many-charging-sessions-happened-during-peak-hours-only)
+    - [Charge duration distribution during peak hours only](#charge-duration-distribution-by-30-minute-buckets-during-peak-hours-only)
 - [Claude Suggested Rule Changes](#claude-suggested-rule-changes)
 - [WhatsApp Group Discussion Summary](#whatsapp-group-discussion-summary)
 - [Conclusion & Petition](#conclusion--petition)
@@ -36,9 +36,9 @@ repeatedly go downstairs physically to check if they are free.
 However, if an EV owner is not in the group, it puts them at a significant disadvantage. As soon as a charger is
 freed and announced in the WhatsApp group, its members will be aware well before an outsider even gets a chance at
 claiming it.  
-Even though WhatsApp is free and accessible on all major platforms, we understand that some people might not be willing to
-use it for various reasons: privacy concerns with a Meta-owned app, not wanting their phone number accessible to group
-members, technology barriers, etc. We are open to suggestions to make sure everyone is included.
+Even though WhatsApp is free and accessible on all major platforms, we understand that some people might not be willing
+to use it for various reasons: privacy concerns with a Meta-owned app, not wanting their phone number accessible to
+group members, technology barriers, etc. We are open to suggestions to make sure everyone is included.
 
 ## Rules
 
@@ -235,13 +235,13 @@ After sharing the data study with the group, 8 members (out of 30) highlighted s
 
 **On overnight sessions:**
 
-- Suggestion to simply remove the limit for cars plugged in after 12am, with a hard requirement to be unplugged by 8am,
+- Suggestion to simply remove the limit for cars plugged in after 10am, with a requirement to be unplugged by 6am,
   rather than a 5-hour window.
+- 6am has been chosen over 8am since some people are waking up earlier to charge their car before going to work.
 
 **On enforcement — the core problem:**
 
-- Fines do not work. One resident (known Cybertruck owner with 3 cars) has been fined 40+ times and simply pays them, as
-  management acknowledged.
+- Fines do not work. One resident has been fined 40+ times and simply pays them, as management acknowledged.
 - Management is reluctant to escalate, citing fear of legal action from this specific resident.
 - The group strongly believes that **revoking charging privileges** and/or **booting/towing** after repeated
   violations (3–4 offenses) would be far more effective than financial penalties — the inconvenience matters more than
@@ -265,11 +265,11 @@ After conducting a poll in the WhatsApp group on the following proposed rule cha
 The "In favor" EV owners of The Wind, are requesting The Wind Management to consider the following changes to the EV
 charging rules based on the above data study and group discussion:
 
-- Revert to the 3-hour limit during peak hours (5am–10pm), as a 2-hour limit is too inconvenient and does not solve the
+- Revert to the 3-hour limit during peak hours (3am–10pm), as a 2-hour limit is too inconvenient and does not solve the
   root problem of enforcement.
-- Remove the time limit for any cars plugged in between 10pm and 5am, since we cannot expect people to wake up in the
+- Remove the time limit for any cars plugged in between 10pm and 3am, since we cannot expect people to wake up in the
   middle of the night to free a charger.  
-  This means: any car plugged in between 10pm and 5am must free the charger by 8am (3 hours after 5am), and any car
+  This means: any car plugged in between 10pm and 3am must free the charger by 6am (3 hours after 3am), and any car
   plugged in before 10pm must free the charger by 1am (3 hours after 10pm) or when their 3-hour limit expires, whichever
   comes first.
 - Keep the 1 car per unit per day limit.
